@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hey, I'm Clément 👋
 
-<!--
-**Clemouche347/Clemouche347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps engineer in training — building my way into freelance infrastructure consulting.
 
-Here are some ideas to get you started:
+I focus on **AWS**, **Terraform**, and **CI/CD pipelines** — designing reproducible, secure, and cost-conscious cloud architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- Learning AWS in depth
+- Building real Terraform projects to grow a production-grade portfolio
+- Preparing for my first freelance infrastructure missions
+
+## Certifications
+
+| Certificate | Provider |
+|---|---|
+| AWS Technical Essentials | AWS Training & Certification |
+
+Currently preparing for AWS Solutions Architect Associate
+
+## Featured repos
+
+| Repo | What it does |
+|---|---|
+| [terraform-aws-alb-asg-bastion](https://github.com/Clemouche347/terraform-aws-alb-asg-bastion) | ALB + Auto Scaling + Bastion host on AWS |
+| [terraform-aws-vpc-foundation](https://github.com/Clemouche347/terraform-aws-vpc-foundation) | Reusable VPC module with remote state |
+| [terraform-aws-vpc-secure](https://github.com/Clemouche347/terraform-aws-vpc-secure) | VPC with NACLs, CloudTrail, IAM hardening |
+| [terraform-aws-vpc-s3-photo-uploader-app](https://github.com/Clemouche347/terraform-aws-vpc-s3-photo-uploader-app) | Full app infra with VPC + S3 + IAM |
+
+## Tools & tech
+
+`Terraform` · `AWS` · `GitHub Actions` · `Linux` · `Git` · `VS Code` · `WSL`
+
+## Where to find me
+
+- 📍 France
+- 💼 Open to freelance Terraform/AWS missions
+- 📫 Reach me via [GitHub](https://github.com/Clemouche347)
