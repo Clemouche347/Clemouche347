@@ -1,14 +1,14 @@
 # Hey, I'm Clément 👋
 
-Cloud & DevOps engineer in training — building my way into freelance infrastructure consulting.
+Cloud & DevOps - freelance infrastructure consulting.
 
 I focus on **AWS**, **Terraform**, and **CI/CD pipelines** — designing reproducible, secure, and cost-conscious cloud architectures.
 
 ## What I'm working on
 
-- Learning AWS in depth
-- Building real Terraform projects to grow a production-grade portfolio
-- Preparing for my first freelance infrastructure missions
+- AWS in depth
+- Building real Terraform projects
+- Freelance infrastructure missions
 
 ## Certifications
 
@@ -29,10 +29,10 @@ Currently preparing for AWS Solutions Architect Associate
 
 ## Tools & tech
 
-`Terraform` · `AWS` · `GitHub Actions` · `Linux` · `Git` · `VS Code` · `WSL`
+`Terraform` · `AWS` · `GitHub Actions` · `Linux` · `Git` · `VS Code` ·  `Grafana` · `Prometheus`
 
 ## Where to find me
 
 - 📍 France
-- 💼 Open to freelance Terraform/AWS missions
+- 💼 Open to freelance DevOps missions
 - 📫 Reach me via [GitHub](https://github.com/Clemouche347)
