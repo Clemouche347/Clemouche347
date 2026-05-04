@@ -22,17 +22,19 @@ Currently preparing for AWS Solutions Architect Associate
 
 | Repo | What it does |
 |---|---|
-| [terraform-aws-alb-asg-bastion](https://github.com/Clemouche347/terraform-aws-alb-asg-bastion) | ALB + Auto Scaling + Bastion host on AWS |
-| [terraform-aws-vpc-foundation](https://github.com/Clemouche347/terraform-aws-vpc-foundation) | Reusable VPC module with remote state |
-| [terraform-aws-vpc-secure](https://github.com/Clemouche347/terraform-aws-vpc-secure) | VPC with NACLs, CloudTrail, IAM hardening |
-| [terraform-aws-vpc-s3-photo-uploader-app](https://github.com/Clemouche347/terraform-aws-vpc-s3-photo-uploader-app) | Full app infra with VPC + S3 + IAM |
+| [synology-nas-hardening](https://github.com/Clemouche347/synology-nas-hardening) | Production NAS security hardening — Tailscale zero-trust VPN, Btrfs snapshots, group RBAC, ~25 users |
+| [nas-monitoring-as-code](https://github.com/Clemouche347/nas-monitoring-as-code) | Monitoring-as-code stack — Prometheus, Grafana, Loki, custom Python exporters, GitOps auto-deploy |
+| [terraform-aws-alb-asg-bastion](https://github.com/Clemouche347/terraform-aws-alb-asg-bastion) | Modern AWS multi-tier infra — ALB + Auto Scaling + secure Bastion |
+| [terraform-aws-vpc-foundation](https://github.com/Clemouche347/terraform-aws-vpc-foundation) | Reusable VPC module — public/private subnets, NAT Gateway, remote state |
+| [github-actions-demo](https://github.com/Clemouche347/github-actions-demo) | CI/CD pipeline for Terraform — fmt, validate, plan-on-PR |
 
 ## Tools & tech
 
-`Terraform` · `AWS` · `GitHub Actions` · `Linux` · `Git` · `VS Code` ·  `Grafana` · `Prometheus`
+## Tools & tech
+`AWS` · `Terraform` · `GitHub Actions` · `Docker` · `Linux` · `Bash` · `Git` · `Prometheus` · `Grafana` · `Loki` · `Tailscale` · `GCP`
 
 ## Where to find me
 
-- 📍 France
-- 💼 Open to freelance DevOps missions
-- 📫 Reach me via [GitHub](https://github.com/Clemouche347)
+- 📍 Lorient / Paris / Remote (Europe)
+- 💼 Available for freelance DevOps missions
+- 🔗 [Malt profile](https://www.malt.fr/profile/clementvoltz)
